@@ -1,0 +1,13 @@
+{
+  "name": "openwebrtc",
+  "version": "1.0.0",
+  "description": "The server uses [node.js](http://nodejs.org) and is started using: ``` node channel_server.js ``` The default port is 8080. The port to use can be changed by setting the environment variable PORT or giving the port as an argument to the node command. If both the environment variable and the argument are given then the argument is used.",
+  "main": "channel_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
